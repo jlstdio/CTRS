@@ -23,7 +23,7 @@ I NEED HELP FROM 'GOOGLE', 'FACEBOOK', 'KAKAO', 'NAVER' AND OTHER ORGANIZATION W
 I NEED THESE ORGANIZATION TO USE MY CODE TO MAKE THIS IDEA WORTHFUL...
 
 
-* This program is 'Non Internet Based Alert System', So organication or people who is using the source to help and let this idea spread don't have to worry about Server fee or any other additional fee.
+* This program is 'Non Internet Based Alert System', So organization or people who is using the source to help and let this idea spread don't have to worry about Server fee or any other additional cost.
 
 ## When do you start?
 * Late 2020.
