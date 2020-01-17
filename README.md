@@ -4,7 +4,7 @@
 * when you are in traffic and heard that Emergency vehicle is coming, You would have to move out of the way to make space for the Urgent people. 
 But problem is it's hard to hear the siren sound and you are listening to loud music and you can't see where the vehicle is coming even you want to move out.
 
-For some country that has really good emergency traffic system. The problem still exist.
+* For some country that has really good emergency traffic system. The problem still exist.
 
 * CTRS is system for Emergency Vehicle. Emergency Vehicle is able to tell other people on drive way where and when the Vehicle is coming and let the red sea open.
 
